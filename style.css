@@ -1,1 +1,13 @@
+body{
+    background-color: blue;
+    color:aquamarine;
+}
+header {
+    width: 100px;
+    border-color: blueviolet;
+    border-width: 2px;
+    border-style: double;
+    padding: 20px;
+    margin: 20px;
 
+}
